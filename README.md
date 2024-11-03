@@ -21,7 +21,6 @@ Web Developer | Aspiring AI Agentic Engineer<br><br>👨‍💻 Currently workin
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Langgraph](https://img.shields.io/badge/langgraph-%231572B6.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -37,6 +36,9 @@ Web Developer | Aspiring AI Agentic Engineer<br><br>👨‍💻 Currently workin
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### AI & Language Tools
+![LangGraph](https://img.shields.io/badge/langgraph-%231572B6.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAamir786&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

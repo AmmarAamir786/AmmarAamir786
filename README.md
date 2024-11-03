@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer | Aspiring AI Agentic ENgineer<br><br>👨‍💻 Currently working on full-stack web development<br>🚀 Frontend: Next.js | Backend: FastAPI<br>🤝 Open Source Contributor<br>🧠 Learning Generative AI @ Presidential Initiative for Artificial Intelligence and Computing<br>🌍 Based in Pakistan<br>🎯 Always exploring cutting-edge tech and building innovative and scalable web applications
+Web Developer | Aspiring AI Agentic Engineer<br><br>👨‍💻 Currently working on full-stack web development<br>🚀 Frontend: Next.js | Backend: FastAPI<br>🤝 Open Source Contributor<br>🧠 Learning Generative AI @ Presidential Initiative for Artificial Intelligence and Computing<br>🌍 Based in Pakistan<br>🎯 Always exploring cutting-edge tech and building innovative and scalable web applications
 
 
 ## 🌐 Socials:

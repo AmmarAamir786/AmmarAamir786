@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="360" viewBox="0 0 1200 360"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Ammar Aamir — Agentic AI Engineer and Full-Stack Developer</title>
+  <desc id="desc">Name and positioning on the left; on the right, one example turn from a phone-ordering voice agent showing the caller's request, the tool call it produced, and the agent's reply.</desc>
+
+  <!-- background -->
+  <rect width="1200" height="360" rx="24" fill="#0B0E14"/>
+
+  <!-- title block -->
+  <g id="title-block" transform="translate(64 0)"
+     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#F2F4F7">
+    <rect x="0" y="63" width="10" height="10" rx="2" fill="#F4B942"/>
+    <text x="22" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="17" letter-spacing="1" fill="#8A94A6">AGENTIC AI ENGINEER · FULL-STACK DEVELOPER</text>
+
+    <text x="0" y="148" font-size="70" font-weight="700" letter-spacing="-1">Ammar Aamir</text>
+
+    <text x="0" y="196" font-size="24" fill="#C6CED9">LLM systems that run in production —</text>
+    <text x="0" y="228" font-size="24" fill="#C6CED9">voice agents, multi-agent pipelines, RAG —</text>
+    <text x="0" y="260" font-size="24" fill="#C6CED9">and the web platforms around them.</text>
+
+    <text x="0" y="312" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="17" fill="#8A94A6">ammar.ujjan.com  ·  Islamabad, Pakistan</text>
+  </g>
+
+  <!-- project proof: one turn of the phone-ordering voice agent -->
+  <g id="project-proof" transform="translate(640 36)"
+     font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">
+    <rect x="0" y="0" width="496" height="290" rx="16" fill="#121924" stroke="#243044" stroke-width="1.5"/>
+
+    <!-- card header -->
+    <text x="24" y="36" font-size="16" fill="#8A94A6">voice agent · example turn</text>
+    <g id="waveform" fill="#F4B942" transform="translate(408 18)">
+      <rect x="0"  y="10" width="4" height="8"  rx="2"/>
+      <rect x="9"  y="5"  width="4" height="18" rx="2"/>
+      <rect x="18" y="0"  width="4" height="28" rx="2"/>
+      <rect x="27" y="7"  width="4" height="14" rx="2"/>
+      <rect x="36" y="3"  width="4" height="22" rx="2"/>
+      <rect x="45" y="9"  width="4" height="10" rx="2"/>
+      <rect x="54" y="12" width="4" height="4"  rx="2"/>
+    </g>
+    <line x1="0" y1="54" x2="496" y2="54" stroke="#243044" stroke-width="1.5"/>
+
+    <!-- transcript -->
+    <text x="24"  y="94"  fill="#8A94A6">caller</text>
+    <text x="116" y="94"  fill="#F2F4F7">two zinger deals,</text>
+    <text x="116" y="126" fill="#F2F4F7">one without mayo</text>
+
+    <text x="24"  y="158" fill="#F4B942">tool</text>
+    <text x="116" y="158" fill="#F4B942">add_deal(zinger, qty=2,</text>
+    <text x="140" y="190" fill="#F4B942">mods=[no_mayo])  ✓</text>
+
+    <text x="24"  y="222" fill="#8A94A6">agent</text>
+    <text x="116" y="222" fill="#F2F4F7">Two Zinger deals, one</text>
+    <text x="116" y="254" fill="#F2F4F7">no mayo. Anything to drink?</text>
+  </g>
+</svg>

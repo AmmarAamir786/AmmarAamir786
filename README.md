@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ammar%20Aamir&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Co-Founder%20%40%20Ujjan&descSize=20&descAlignY=58" width="100%" alt="Ammar Aamir — Agentic AI Engineer | Full-Stack Developer | Co-Founder @ Ujjan">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ammar%20Aamir&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Solutions%20Architect%20%40%20Ujjan&descSize=20&descAlignY=58" width="100%" alt="Ammar Aamir — Agentic AI Engineer | Full-Stack Developer | AI Solutions Architect @ Ujjan">
 
 <p align="center">
-  <a href="https://github.com/AmmarAamir786"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Building+LLM+systems+that+run+in+production;Voice+Agents+%C2%B7+Multi-Agent+Systems+%C2%B7+RAG;Co-Founder+%26+AI+Solutions+Architect+%40+Ujjan;Agentic+AI+Instructor+%40+PIAIC+%26+Panaversity" alt="Building LLM systems that run in production · Voice Agents · Multi-Agent Systems · RAG · Co-Founder @ Ujjan · Instructor @ PIAIC & Panaversity"></a>
+  <a href="https://github.com/AmmarAamir786"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Building+LLM+systems+that+run+in+production;Voice+Agents+%C2%B7+Multi-Agent+Systems+%C2%B7+RAG;AI+Solutions+Architect+%40+Ujjan;Agentic+AI+Instructor+%40+PIAIC+%26+Panaversity" alt="Building LLM systems that run in production · Voice Agents · Multi-Agent Systems · RAG · AI Solutions Architect @ Ujjan · Instructor @ PIAIC & Panaversity"></a>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 🤖 **Agentic AI Engineer & Full-Stack Developer** — I build LLM-powered systems that run in production<br>
-🚀 **Co-Founder & AI Solutions Architect @ [Ujjan](https://ujjan.com)** — from the first client conversation to a system in production<br>
+🚀 **AI Solutions Architect @ [Ujjan](https://ujjan.com)** — from the first client conversation to a system in production<br>
 🎙️ Voice agents · Multi-agent pipelines · RAG · Real-time AI<br>
 ⚡ Frontend: **Next.js / React** &nbsp;|&nbsp; Backend: **FastAPI / Laravel** &nbsp;|&nbsp; Data: **PostgreSQL**<br>
 👨‍🏫 **Technical Instructor @ PIAIC & Panaversity** — teaching Agentic AI and spec-driven development<br>
